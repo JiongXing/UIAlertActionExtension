@@ -123,6 +123,6 @@ sheet.addAction(cancelAction)
 self.present(sheet, animated: true, completion: nil)
 ```
 
-![蓝->黑.png](https://github.com/JiongXing/UIAlertActionExtension/raw/master/Screenshots/蓝字 -> 黑字.png)
+![蓝->黑.png](https://github.com/JiongXing/UIAlertActionExtension/raw/master/Screenshots/蓝字->黑字.png)
 
 顺利把蓝字改成了黑字。
